@@ -1,6 +1,5 @@
-# cnode
-
-
+# egg-cnode
+> practice mysql with the cnode API
 
 ## QuickStart
 
@@ -31,3 +30,6 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+
+
+
